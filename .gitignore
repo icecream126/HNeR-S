@@ -1,2 +1,3 @@
 dataset/
 wandb/
+.DS_Store
