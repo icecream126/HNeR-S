@@ -26,14 +26,14 @@ python src/datasets/generation/download.py --variable=temperature --mode=separat
 
 # How to run
 
-## Spatial SR
-### Arguments
+
+## Arguments
 * **dataset_dir** (str) 
 * **downscale_factor** (int)
 * **seed** (int)
 * **model** (str) ```[healpix, equirect]```
 
-### Example script
+## Example script
 
 ```
 # Model : HEALPix
